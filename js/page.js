@@ -11,7 +11,7 @@ function loadNewWave() {
 	var fn = $('#waveselect').val();
 	var selected = $('#waveselect option:selected').each(function(){
 		var desc = $(this).data('description');
-		if (desc.length>20) {
+		if (desc !== undefined && desc.length>20) {
 			$('#description').text(desc);
 			$('#description').show();
 		} else {
