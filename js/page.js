@@ -9,6 +9,15 @@ function dlCanvas() {
 
 function loadNewWave() {
 	var fn = $('#waveselect').val();
+	var selected = $('#waveselect option:selected').each(function(){
+		var desc = $(this).data('description');
+		if (desc.length>20) {
+			$('#description').text(desc);
+			$('#description').show();
+		} else {
+			$('#description').hide();
+		}
+	});
 	$.getJSON( "/files/"+fn, function( data ) {
 
 		var context = document.getElementById('canvas').getContext('2d');
@@ -46,10 +55,13 @@ function loadNewWave() {
 jQuery(document).ready(function() {
 
 	// fetch directory
+	var option;
 	$.getJSON( "directory.json", function( data ) {
 		$('#waveselect').empty();
 		$.each( data, function() {
-			$('#waveselect').append($('<option value="'+this.fn+'">'+this.title+' ('+this.attribution+')</option>'));
+			option = $('<option value="'+this.fn+'">'+this.title+' ('+this.attribution+')</option>');
+			option.data('description',this.notes);
+			$('#waveselect').append(option);
 		});
 		$('#waveselect').change(loadNewWave);
 		loadNewWave();
