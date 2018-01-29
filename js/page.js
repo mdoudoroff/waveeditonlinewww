@@ -65,6 +65,7 @@ jQuery(document).ready(function() {
 		});
 		$('#waveselect').change(loadNewWave);
 		loadNewWave();
+		$('#wavetableCount').text(data.length);
 	});
 
 	$('#dl').click(dlCanvas);
