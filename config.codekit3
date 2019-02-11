@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,1227 +7,2445 @@
 		"uuidString": "810FB112-9DED-4DD6-BDC6-2964BE9A7D7C"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "28905",
 "files": {
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"\/art.html": {
+	"/art.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/art.html",
+		"oAP": "/art.html",
 		"oF": 0
 		},
-	"\/css\/art.css": {
+	"/css/art.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/art-min.css",
+		"oAP": "/css/art-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/art.css.map": {
+	"/css/art.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/art.css.map",
+		"oAP": "/css/art.css.map",
 		"oF": 0
 		},
-	"\/css\/style.css": {
+	"/css/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/style-min.css",
+		"oAP": "/css/style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/style.css.map": {
+	"/css/style.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/style.css.map",
+		"oAP": "/css/style.css.map",
 		"oF": 0
 		},
-	"\/css\/style2.css": {
+	"/css/style2.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/style2-min.css",
+		"oAP": "/css/style2-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/style2.css.map": {
+	"/css/style2.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/style2.css.map",
+		"oAP": "/css/style2.css.map",
 		"oF": 0
 		},
-	"\/directory.json": {
+	"/directory.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/directory-min.json",
+		"oAP": "/directory-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/3xZKLReJzoYttDxnnzRREA.json": {
+	"/files/3xZKLReJzoYttDxnnzRREA.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/3xZKLReJzoYttDxnnzRREA-min.json",
+		"oAP": "/files/3xZKLReJzoYttDxnnzRREA-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/4Nb3uNKJU2F9iMSKd9QfHm.json": {
+	"/files/4Nb3uNKJU2F9iMSKd9QfHm.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/4Nb3uNKJU2F9iMSKd9QfHm-min.json",
+		"oAP": "/files/4Nb3uNKJU2F9iMSKd9QfHm-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/4ra8Qr56zUdaGeQowjnkKU.json": {
+	"/files/4ra8Qr56zUdaGeQowjnkKU.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/4ra8Qr56zUdaGeQowjnkKU-min.json",
+		"oAP": "/files/4ra8Qr56zUdaGeQowjnkKU-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/5mbR2FccgRKPNhpsddRBbR.json": {
+	"/files/4w95tDXVxkNR6oD9TGLukk.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/5mbR2FccgRKPNhpsddRBbR-min.json",
+		"oAP": "/files/4w95tDXVxkNR6oD9TGLukk-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/6gNHg6nC89zpLnAG8oNNY2.json": {
+	"/files/5mbR2FccgRKPNhpsddRBbR.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/6gNHg6nC89zpLnAG8oNNY2-min.json",
+		"oAP": "/files/5mbR2FccgRKPNhpsddRBbR-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/8tyWkNJVfkMTowugSbtMTJ.json": {
+	"/files/6gNHg6nC89zpLnAG8oNNY2.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/8tyWkNJVfkMTowugSbtMTJ-min.json",
+		"oAP": "/files/6gNHg6nC89zpLnAG8oNNY2-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/9e499Ahz5KeASxGZsenu2T.json": {
+	"/files/7QNmPg4FCZbXTJZC3XiMND.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/9e499Ahz5KeASxGZsenu2T-min.json",
+		"oAP": "/files/7QNmPg4FCZbXTJZC3XiMND-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/9h7yjskFEQQytrNWvFbwd6.json": {
+	"/files/8Ccao5awEYxMt7Wg3HDm83.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/9h7yjskFEQQytrNWvFbwd6-min.json",
+		"oAP": "/files/8Ccao5awEYxMt7Wg3HDm83-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/9npoYWsUHangNfYvEXCtUT.json": {
+	"/files/8tyWkNJVfkMTowugSbtMTJ.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/9npoYWsUHangNfYvEXCtUT-min.json",
+		"oAP": "/files/8tyWkNJVfkMTowugSbtMTJ-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/9rwZrv7TZUbaioTEg2mEYh.json": {
+	"/files/9e499Ahz5KeASxGZsenu2T.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/9rwZrv7TZUbaioTEg2mEYh-min.json",
+		"oAP": "/files/9e499Ahz5KeASxGZsenu2T-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/9Ucf5orvLyJNDMCYe4homN.json": {
+	"/files/9h7yjskFEQQytrNWvFbwd6.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/9Ucf5orvLyJNDMCYe4homN-min.json",
+		"oAP": "/files/9h7yjskFEQQytrNWvFbwd6-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/aG99Yx3PDew4xk9GdjGwML.json": {
+	"/files/9npoYWsUHangNfYvEXCtUT.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/aG99Yx3PDew4xk9GdjGwML-min.json",
+		"oAP": "/files/9npoYWsUHangNfYvEXCtUT-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/AT3k9ht38U2hmcDXsqd4e3.json": {
+	"/files/9rwZrv7TZUbaioTEg2mEYh.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/AT3k9ht38U2hmcDXsqd4e3-min.json",
+		"oAP": "/files/9rwZrv7TZUbaioTEg2mEYh-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/auL5TkHQjtxy6GdJ7pDxZD.json": {
+	"/files/9Ucf5orvLyJNDMCYe4homN.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/auL5TkHQjtxy6GdJ7pDxZD-min.json",
+		"oAP": "/files/9Ucf5orvLyJNDMCYe4homN-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/AychxWkmUXsSysvLG7sRqC.json": {
+	"/files/aG99Yx3PDew4xk9GdjGwML.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/AychxWkmUXsSysvLG7sRqC-min.json",
+		"oAP": "/files/aG99Yx3PDew4xk9GdjGwML-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/B4uHWti3jUhoYw5PLQZcoG.json": {
+	"/files/AT3k9ht38U2hmcDXsqd4e3.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/B4uHWti3jUhoYw5PLQZcoG-min.json",
+		"oAP": "/files/AT3k9ht38U2hmcDXsqd4e3-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/bJK4LySQFVsBPZJd7mUGsn.json": {
+	"/files/auL5TkHQjtxy6GdJ7pDxZD.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/bJK4LySQFVsBPZJd7mUGsn-min.json",
+		"oAP": "/files/auL5TkHQjtxy6GdJ7pDxZD-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/BqcpN2fM6Z5pojaUJYQ2xG.json": {
+	"/files/AychxWkmUXsSysvLG7sRqC.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/BqcpN2fM6Z5pojaUJYQ2xG-min.json",
+		"oAP": "/files/AychxWkmUXsSysvLG7sRqC-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/bstu25ZeWTv2M7YTwBPShH.json": {
+	"/files/B4uHWti3jUhoYw5PLQZcoG.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/bstu25ZeWTv2M7YTwBPShH-min.json",
+		"oAP": "/files/B4uHWti3jUhoYw5PLQZcoG-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/Bvobi4mC4ixvhfjeLQHCqR.json": {
+	"/files/BgQBX2AEQx6fiHj5FDb2Cc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/Bvobi4mC4ixvhfjeLQHCqR-min.json",
+		"oAP": "/files/BgQBX2AEQx6fiHj5FDb2Cc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/bWoHWazP5eFQU2FQdE22Wa.json": {
+	"/files/bJK4LySQFVsBPZJd7mUGsn.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/bWoHWazP5eFQU2FQdE22Wa-min.json",
+		"oAP": "/files/bJK4LySQFVsBPZJd7mUGsn-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/CL47D6fJ6gkSFw2oS98L9k.json": {
+	"/files/BqcpN2fM6Z5pojaUJYQ2xG.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/CL47D6fJ6gkSFw2oS98L9k-min.json",
+		"oAP": "/files/BqcpN2fM6Z5pojaUJYQ2xG-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/CtQMnqqujEyArptQDucDYc.json": {
+	"/files/bstu25ZeWTv2M7YTwBPShH.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/CtQMnqqujEyArptQDucDYc-min.json",
+		"oAP": "/files/bstu25ZeWTv2M7YTwBPShH-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/e6Qcqd7Sc24gUCQbdGJ9ET.json": {
+	"/files/Bvobi4mC4ixvhfjeLQHCqR.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/e6Qcqd7Sc24gUCQbdGJ9ET-min.json",
+		"oAP": "/files/Bvobi4mC4ixvhfjeLQHCqR-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/eDvLkYurYVYZdVmQ5xdxAJ.json": {
+	"/files/bWoHWazP5eFQU2FQdE22Wa.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/eDvLkYurYVYZdVmQ5xdxAJ-min.json",
+		"oAP": "/files/bWoHWazP5eFQU2FQdE22Wa-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/eL5cdXBBo78Hi4gRB4xEVe.json": {
+	"/files/byWVHeb9UnWFagaCr482HY.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/eL5cdXBBo78Hi4gRB4xEVe-min.json",
+		"oAP": "/files/byWVHeb9UnWFagaCr482HY-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/fAuSer2q7JaCdLBHQHj3aM.json": {
+	"/files/CL47D6fJ6gkSFw2oS98L9k.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/fAuSer2q7JaCdLBHQHj3aM-min.json",
+		"oAP": "/files/CL47D6fJ6gkSFw2oS98L9k-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/FfcxZRZR95TZFZmMizQxh9.json": {
+	"/files/CtQMnqqujEyArptQDucDYc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/FfcxZRZR95TZFZmMizQxh9-min.json",
+		"oAP": "/files/CtQMnqqujEyArptQDucDYc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/fPhyn7zBc6pADE3bAznQbh.json": {
+	"/files/CZmm9VyKP5RuykP4i7FRDn.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/fPhyn7zBc6pADE3bAznQbh-min.json",
+		"oAP": "/files/CZmm9VyKP5RuykP4i7FRDn-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/frHfJxqT6SBDLSSWsyndgF.json": {
+	"/files/DTJEgaspHmpd6shaEieK6M.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/frHfJxqT6SBDLSSWsyndgF-min.json",
+		"oAP": "/files/DTJEgaspHmpd6shaEieK6M-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/gQrqjzxwk4SmJixCKhrarb.json": {
+	"/files/DwMovKgBED3eU9yszaKD5L.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/gQrqjzxwk4SmJixCKhrarb-min.json",
+		"oAP": "/files/DwMovKgBED3eU9yszaKD5L-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/gTWvLUUDxZ8BZGwWkfzRiH.json": {
+	"/files/Dx5GM5uYShU7v7eqwW2qy9.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/gTWvLUUDxZ8BZGwWkfzRiH-min.json",
+		"oAP": "/files/Dx5GM5uYShU7v7eqwW2qy9-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/GzyM4WBZLXFx337cCJxg2U.json": {
+	"/files/e6Qcqd7Sc24gUCQbdGJ9ET.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/GzyM4WBZLXFx337cCJxg2U-min.json",
+		"oAP": "/files/e6Qcqd7Sc24gUCQbdGJ9ET-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/HBCi2kCBcNagEGXXK5jqgK.json": {
+	"/files/eDvLkYurYVYZdVmQ5xdxAJ.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/HBCi2kCBcNagEGXXK5jqgK-min.json",
+		"oAP": "/files/eDvLkYurYVYZdVmQ5xdxAJ-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/HLHf3Jbtdcappobrsaxk32.json": {
+	"/files/eL5cdXBBo78Hi4gRB4xEVe.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/HLHf3Jbtdcappobrsaxk32-min.json",
+		"oAP": "/files/eL5cdXBBo78Hi4gRB4xEVe-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/HPPJgtiKGVmicgakmoNKZd.json": {
+	"/files/emhE3jqaWfzoGSVzPLevG3.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/HPPJgtiKGVmicgakmoNKZd-min.json",
+		"oAP": "/files/emhE3jqaWfzoGSVzPLevG3-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/hv8ftAP6Fb24m6ZHV7RhQk.json": {
+	"/files/fAuSer2q7JaCdLBHQHj3aM.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/hv8ftAP6Fb24m6ZHV7RhQk-min.json",
+		"oAP": "/files/fAuSer2q7JaCdLBHQHj3aM-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/hYmMpoZf7ANEvxwyMRWag4.json": {
+	"/files/FfcxZRZR95TZFZmMizQxh9.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/hYmMpoZf7ANEvxwyMRWag4-min.json",
+		"oAP": "/files/FfcxZRZR95TZFZmMizQxh9-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/JpwxZmLgBiSFHk28MeNpNc.json": {
+	"/files/fPhyn7zBc6pADE3bAznQbh.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/JpwxZmLgBiSFHk28MeNpNc-min.json",
+		"oAP": "/files/fPhyn7zBc6pADE3bAznQbh-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/jzeSbEFreNADjohs6ZuHgb.json": {
+	"/files/frHfJxqT6SBDLSSWsyndgF.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/jzeSbEFreNADjohs6ZuHgb-min.json",
+		"oAP": "/files/frHfJxqT6SBDLSSWsyndgF-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/kCzW2QGeEcGmyNN2kv7jES.json": {
+	"/files/gQrqjzxwk4SmJixCKhrarb.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/kCzW2QGeEcGmyNN2kv7jES-min.json",
+		"oAP": "/files/gQrqjzxwk4SmJixCKhrarb-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/KEwEBz86QUtVG9g7zjcy5d.json": {
+	"/files/gTWvLUUDxZ8BZGwWkfzRiH.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/KEwEBz86QUtVG9g7zjcy5d-min.json",
+		"oAP": "/files/gTWvLUUDxZ8BZGwWkfzRiH-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/kLqrnhjt5aYzvDD4wCmV9A.json": {
+	"/files/GWoyXdHdfuPjHhtGi5a8iN.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/kLqrnhjt5aYzvDD4wCmV9A-min.json",
+		"oAP": "/files/GWoyXdHdfuPjHhtGi5a8iN-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/KZVrmziSAHfmkxo5Xk8oA8.json": {
+	"/files/GzyM4WBZLXFx337cCJxg2U.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/KZVrmziSAHfmkxo5Xk8oA8-min.json",
+		"oAP": "/files/GzyM4WBZLXFx337cCJxg2U-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/mRF9n9DVQMyWKxbgn6LiSa.json": {
+	"/files/HBCi2kCBcNagEGXXK5jqgK.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/mRF9n9DVQMyWKxbgn6LiSa-min.json",
+		"oAP": "/files/HBCi2kCBcNagEGXXK5jqgK-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/oAgBqEMrhcUrXrtowb3AYg.json": {
+	"/files/hcGkTNrWLSqKExVPWagoRk.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/oAgBqEMrhcUrXrtowb3AYg-min.json",
+		"oAP": "/files/hcGkTNrWLSqKExVPWagoRk-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/p55YVzEkRxikHeocCWYUwH.json": {
+	"/files/HLHf3Jbtdcappobrsaxk32.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/p55YVzEkRxikHeocCWYUwH-min.json",
+		"oAP": "/files/HLHf3Jbtdcappobrsaxk32-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/pAoeTcMcLgaRBiFo7jKjsg.json": {
+	"/files/HPPJgtiKGVmicgakmoNKZd.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/pAoeTcMcLgaRBiFo7jKjsg-min.json",
+		"oAP": "/files/HPPJgtiKGVmicgakmoNKZd-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/pDK763UaifUFQCV2qybzhj.json": {
+	"/files/hUgobymj7bCaZjzfJYdb52.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/pDK763UaifUFQCV2qybzhj-min.json",
+		"oAP": "/files/hUgobymj7bCaZjzfJYdb52-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/Pihzy9EzhWVEzNFBNjbTdS.json": {
+	"/files/hv8ftAP6Fb24m6ZHV7RhQk.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/Pihzy9EzhWVEzNFBNjbTdS-min.json",
+		"oAP": "/files/hv8ftAP6Fb24m6ZHV7RhQk-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/pZyDSgFHuyDKfJQ3AaerdS.json": {
+	"/files/hYmMpoZf7ANEvxwyMRWag4.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/pZyDSgFHuyDKfJQ3AaerdS-min.json",
+		"oAP": "/files/hYmMpoZf7ANEvxwyMRWag4-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/qLFs6hAZ2XqfJwjJU73P3d.json": {
+	"/files/iCwAJQW4zG4vS2gGRiqTuk.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/qLFs6hAZ2XqfJwjJU73P3d-min.json",
+		"oAP": "/files/iCwAJQW4zG4vS2gGRiqTuk-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/qLHyK4v3fBiUtBGD3sbXsm.json": {
+	"/files/ip2Y7mFmp64owMqmHw3rv4.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/qLHyK4v3fBiUtBGD3sbXsm-min.json",
+		"oAP": "/files/ip2Y7mFmp64owMqmHw3rv4-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/QWg8SAYHSsr92hZvyJni2g.json": {
+	"/files/JpwxZmLgBiSFHk28MeNpNc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/QWg8SAYHSsr92hZvyJni2g-min.json",
+		"oAP": "/files/JpwxZmLgBiSFHk28MeNpNc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/sqSG4rrrCPReAaKRFHLrYE.json": {
+	"/files/jzeSbEFreNADjohs6ZuHgb.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/sqSG4rrrCPReAaKRFHLrYE-min.json",
+		"oAP": "/files/jzeSbEFreNADjohs6ZuHgb-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/TQeNYGwu958fJ3YrtrA87i.json": {
+	"/files/jZZbQFWdzzA99Tra2ixps3.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/TQeNYGwu958fJ3YrtrA87i-min.json",
+		"oAP": "/files/jZZbQFWdzzA99Tra2ixps3-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/UDgwzDiZdfmAgEQ9wpEVmY.json": {
+	"/files/kCzW2QGeEcGmyNN2kv7jES.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/UDgwzDiZdfmAgEQ9wpEVmY-min.json",
+		"oAP": "/files/kCzW2QGeEcGmyNN2kv7jES-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/WeGzLKfJePovN5BGfTp5SF.json": {
+	"/files/KEwEBz86QUtVG9g7zjcy5d.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/WeGzLKfJePovN5BGfTp5SF-min.json",
+		"oAP": "/files/KEwEBz86QUtVG9g7zjcy5d-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/Wm6pCYCtE32zQEi446bYwV.json": {
+	"/files/kLqrnhjt5aYzvDD4wCmV9A.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/Wm6pCYCtE32zQEi446bYwV-min.json",
+		"oAP": "/files/kLqrnhjt5aYzvDD4wCmV9A-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/WSiZrvJGmKKiHBpwfp4dAf.json": {
+	"/files/KZVrmziSAHfmkxo5Xk8oA8.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/WSiZrvJGmKKiHBpwfp4dAf-min.json",
+		"oAP": "/files/KZVrmziSAHfmkxo5Xk8oA8-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/WzkRopDrd9shdhbb887yDc.json": {
+	"/files/M3VJHTzb77rrT5WVnmNoJZ.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/WzkRopDrd9shdhbb887yDc-min.json",
+		"oAP": "/files/M3VJHTzb77rrT5WVnmNoJZ-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/ycJYoeMEGQjsqRDvVkQsu5.json": {
+	"/files/MMdQn8ZuCaRhPJfUQy5HyF.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/ycJYoeMEGQjsqRDvVkQsu5-min.json",
+		"oAP": "/files/MMdQn8ZuCaRhPJfUQy5HyF-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/yRtM9kACBaqH2G6L6NEHN3.json": {
+	"/files/mRF9n9DVQMyWKxbgn6LiSa.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/yRtM9kACBaqH2G6L6NEHN3-min.json",
+		"oAP": "/files/mRF9n9DVQMyWKxbgn6LiSa-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/yZ2NnrKJ2Niix3a4JWfY29.json": {
+	"/files/mSGSaFuSyNY65bma3kpHCa.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/yZ2NnrKJ2Niix3a4JWfY29-min.json",
+		"oAP": "/files/mSGSaFuSyNY65bma3kpHCa-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/files\/ZKyQXXmPEVgCqwB5oNhjkD.json": {
+	"/files/nEHbTCS6f2cDNzHKWu4bHj.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/files\/ZKyQXXmPEVgCqwB5oNhjkD-min.json",
+		"oAP": "/files/nEHbTCS6f2cDNzHKWu4bHj-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/index-1.html": {
+	"/files/oAgBqEMrhcUrXrtowb3AYg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/oAgBqEMrhcUrXrtowb3AYg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/p55YVzEkRxikHeocCWYUwH.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/p55YVzEkRxikHeocCWYUwH-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/pAoeTcMcLgaRBiFo7jKjsg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/pAoeTcMcLgaRBiFo7jKjsg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/pDK763UaifUFQCV2qybzhj.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/pDK763UaifUFQCV2qybzhj-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/Pihzy9EzhWVEzNFBNjbTdS.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/Pihzy9EzhWVEzNFBNjbTdS-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/po4JdmB7fRhDMYceqxPQB3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/po4JdmB7fRhDMYceqxPQB3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/pZyDSgFHuyDKfJQ3AaerdS.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/pZyDSgFHuyDKfJQ3AaerdS-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/qiPDqUnLyLibFeurTJsLLY.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/qiPDqUnLyLibFeurTJsLLY-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/qLFs6hAZ2XqfJwjJU73P3d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/qLFs6hAZ2XqfJwjJU73P3d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/qLHyK4v3fBiUtBGD3sbXsm.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/qLHyK4v3fBiUtBGD3sbXsm-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/QUyXR3Vo6tv88k8m3Lgno4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/QUyXR3Vo6tv88k8m3Lgno4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/QWg8SAYHSsr92hZvyJni2g.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/QWg8SAYHSsr92hZvyJni2g-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/rYUNUFBuZjRLvwg4fSJ3pE.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/rYUNUFBuZjRLvwg4fSJ3pE-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/sm59AXzPu8gCfpdPqa9Auk.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/sm59AXzPu8gCfpdPqa9Auk-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/SosNKyZxs8zgZ4atKFCCQ7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/SosNKyZxs8zgZ4atKFCCQ7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/sqSG4rrrCPReAaKRFHLrYE.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/sqSG4rrrCPReAaKRFHLrYE-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/TQeNYGwu958fJ3YrtrA87i.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/TQeNYGwu958fJ3YrtrA87i-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/U8XandZnHVqH9GTpsvcYQK.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/U8XandZnHVqH9GTpsvcYQK-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/UDgwzDiZdfmAgEQ9wpEVmY.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/UDgwzDiZdfmAgEQ9wpEVmY-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/ufYFQd7S6YAo4enNNsGhb9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/ufYFQd7S6YAo4enNNsGhb9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/uo6NcTGvmR9i5FFSt5BvFn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/uo6NcTGvmR9i5FFSt5BvFn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/WeGzLKfJePovN5BGfTp5SF.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/WeGzLKfJePovN5BGfTp5SF-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/Wm6pCYCtE32zQEi446bYwV.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/Wm6pCYCtE32zQEi446bYwV-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/WSiZrvJGmKKiHBpwfp4dAf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/WSiZrvJGmKKiHBpwfp4dAf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/wyNqWxGskLYMFc9aAFVSiE.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/wyNqWxGskLYMFc9aAFVSiE-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/WzkRopDrd9shdhbb887yDc.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/WzkRopDrd9shdhbb887yDc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/WZs9Enc4x6KbRQudpcr5jY.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/WZs9Enc4x6KbRQudpcr5jY-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/X3a4tY5srnePH4xeYvuAJU.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/X3a4tY5srnePH4xeYvuAJU-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/xbBNKjvGdP4CSJW8b6yws4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/xbBNKjvGdP4CSJW8b6yws4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/ycJYoeMEGQjsqRDvVkQsu5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/ycJYoeMEGQjsqRDvVkQsu5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/ymvGhMgj6xaX6EuSFwsA8P.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/ymvGhMgj6xaX6EuSFwsA8P-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/yRtM9kACBaqH2G6L6NEHN3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/yRtM9kACBaqH2G6L6NEHN3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/YRtX9CpLxpioxMp2f5N9dJ.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/YRtX9CpLxpioxMp2f5N9dJ-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/yZ2NnrKJ2Niix3a4JWfY29.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/yZ2NnrKJ2Niix3a4JWfY29-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/files/ZKyQXXmPEVgCqwB5oNhjkD.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/files/ZKyQXXmPEVgCqwB5oNhjkD-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/index-1.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index-1.html",
+		"oAP": "/index-1.html",
 		"oF": 0
 		},
-	"\/index-2.html": {
+	"/index-2.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index-2.html",
+		"oAP": "/index-2.html",
 		"oF": 0
 		},
-	"\/index-old.html": {
+	"/index-3.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index-old.html",
+		"oAP": "/index-3.html",
 		"oF": 0
 		},
-	"\/index.html": {
+	"/index-old.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "/index-old.html",
 		"oF": 0
 		},
-	"\/index2.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index2.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/art-min.js": {
+	"/index2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/index2.html",
+		"oF": 0
+		},
+	"/js/art-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/art-min-min.js",
+		"oAP": "/js/art-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/art.js": {
+	"/js/art.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/art-min.js",
+		"oAP": "/js/art-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/jquery-3.2.1.min.js": {
+	"/js/jquery-3.2.1.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/jquery-3.2.1.min-min.js",
+		"oAP": "/js/jquery-3.2.1.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/page-min.js": {
+	"/js/page-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/page-min-min.js",
+		"oAP": "/js/page-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/page.js": {
+	"/js/page.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/page-min.js",
+		"oAP": "/js/page-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/page2-min.js": {
+	"/js/page2-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/page2-min-min.js",
+		"oAP": "/js/page2-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/page2.js": {
+	"/js/page2.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/page2-min.js",
+		"oAP": "/js/page2-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/less\/art.less": {
+	"/less/art.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 1,
+		"mS": 0,
 		"oA": 0,
-		"oAP": "\/css\/art.css",
+		"oAP": "/css/art.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/style.less": {
+	"/less/style.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 1,
+		"mS": 0,
 		"oA": 0,
-		"oAP": "\/css\/style.css",
+		"oAP": "/css/style.css",
 		"oF": 2,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/style2.css": {
+	"/less/style2.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/less\/style2-min.css",
+		"oAP": "/less/style2-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/less\/style2.css.map": {
+	"/less/style2.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/less\/style2.css.map",
+		"oAP": "/less/style2.css.map",
 		"oF": 0
 		},
-	"\/less\/style2.less": {
+	"/less/style2.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 1,
+		"mS": 0,
 		"oA": 0,
-		"oAP": "\/css\/style2.css",
+		"oAP": "/css/style2.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/wav-files.zip": {
+	"/wav-files.zip": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav-files.zip",
+		"oAP": "/wav-files.zip",
 		"oF": 0
 		},
-	"\/wav\/AahWohYehOoh.wav": {
+	"/wav.bak/AahWohYehOoh.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/AahWohYehOoh.wav",
+		"oAP": "/wav.bak/AahWohYehOoh.wav",
 		"oF": 0
 		},
-	"\/wav\/AKWF_FMSynth_A.wav": {
+	"/wav.bak/AKWF_FMSynth_A.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/AKWF_FMSynth_A.wav",
+		"oAP": "/wav.bak/AKWF_FMSynth_A.wav",
 		"oF": 0
 		},
-	"\/wav\/Assymetrical_.wav": {
+	"/wav.bak/Assymetrical_.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Assymetrical_.wav",
+		"oAP": "/wav.bak/Assymetrical_.wav",
 		"oF": 0
 		},
-	"\/wav\/AudioTerm1.wav": {
+	"/wav.bak/AudioTerm1.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/AudioTerm1.wav",
+		"oAP": "/wav.bak/AudioTerm1.wav",
 		"oF": 0
 		},
-	"\/wav\/Bank_A.wav": {
+	"/wav.bak/Bank_A.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Bank_A.wav",
+		"oAP": "/wav.bak/Bank_A.wav",
 		"oF": 0
 		},
-	"\/wav\/Bank_B.wav": {
+	"/wav.bak/Bank_B.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Bank_B.wav",
+		"oAP": "/wav.bak/Bank_B.wav",
 		"oF": 0
 		},
-	"\/wav\/Bank_C.wav": {
+	"/wav.bak/Bank_C.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Bank_C.wav",
+		"oAP": "/wav.bak/Bank_C.wav",
 		"oF": 0
 		},
-	"\/wav\/BBELLS.wav": {
+	"/wav.bak/BBELLS.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/BBELLS.wav",
+		"oAP": "/wav.bak/BBELLS.wav",
 		"oF": 0
 		},
-	"\/wav\/Best_of_Adventure_Kid.wav": {
+	"/wav.bak/Best_of_Adventure_Kid.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Best_of_Adventure_Kid.wav",
+		"oAP": "/wav.bak/Best_of_Adventure_Kid.wav",
 		"oF": 0
 		},
-	"\/wav\/Bowing.wav": {
+	"/wav.bak/Bowing.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Bowing.wav",
+		"oAP": "/wav.bak/Bowing.wav",
 		"oF": 0
 		},
-	"\/wav\/Clock_Multiplier_0.1.wav": {
+	"/wav.bak/Clock_Multiplier_0.1.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Clock_Multiplier_0.1.wav",
+		"oAP": "/wav.bak/Clock_Multiplier_0.1.wav",
 		"oF": 0
 		},
-	"\/wav\/Cyborg.wav": {
+	"/wav.bak/Cyborg.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Cyborg.wav",
+		"oAP": "/wav.bak/Cyborg.wav",
 		"oF": 0
 		},
-	"\/wav\/Enshturzen.wav": {
+	"/wav.bak/Enshturzen.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Enshturzen.wav",
+		"oAP": "/wav.bak/Enshturzen.wav",
 		"oF": 0
 		},
-	"\/wav\/Enshturzen_2.wav": {
+	"/wav.bak/Enshturzen_2.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Enshturzen_2.wav",
+		"oAP": "/wav.bak/Enshturzen_2.wav",
 		"oF": 0
 		},
-	"\/wav\/Enshturzen_3.wav": {
+	"/wav.bak/Enshturzen_3.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Enshturzen_3.wav",
+		"oAP": "/wav.bak/Enshturzen_3.wav",
 		"oF": 0
 		},
-	"\/wav\/Euclidean.wav": {
+	"/wav.bak/ESQ1-HI.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Euclidean.wav",
+		"oAP": "/wav.bak/ESQ1-HI.wav",
 		"oF": 0
 		},
-	"\/wav\/Fairlight_1.wav": {
+	"/wav.bak/ESQ1-LO.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Fairlight_1.wav",
+		"oAP": "/wav.bak/ESQ1-LO.wav",
 		"oF": 0
 		},
-	"\/wav\/G2_AstralVandelas.wav": {
+	"/wav.bak/Euclidean.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/G2_AstralVandelas.wav",
+		"oAP": "/wav.bak/Euclidean.wav",
 		"oF": 0
 		},
-	"\/wav\/Geometrical.wav": {
+	"/wav.bak/Fairlight_1.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Geometrical.wav",
+		"oAP": "/wav.bak/Fairlight_1.wav",
 		"oF": 0
 		},
-	"\/wav\/Harmonix.wav": {
+	"/wav.bak/G2_AstralVandelas.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Harmonix.wav",
+		"oAP": "/wav.bak/G2_AstralVandelas.wav",
 		"oF": 0
 		},
-	"\/wav\/HmmmmmmmmmErrrrrrrekkkkkkk.wav": {
+	"/wav.bak/Geometrical.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/HmmmmmmmmmErrrrrrrekkkkkkk.wav",
+		"oAP": "/wav.bak/Geometrical.wav",
 		"oF": 0
 		},
-	"\/wav\/HVOICEA.wav": {
+	"/wav.bak/Harmonix.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/HVOICEA.wav",
+		"oAP": "/wav.bak/Harmonix.wav",
 		"oF": 0
 		},
-	"\/wav\/ISOBELLE.wav": {
+	"/wav.bak/HmmmmmmmmmErrrrrrrekkkkkkk.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/ISOBELLE.wav",
+		"oAP": "/wav.bak/HmmmmmmmmmErrrrrrrekkkkkkk.wav",
 		"oF": 0
 		},
-	"\/wav\/ISOLDE.wav": {
+	"/wav.bak/HVOICEA.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/ISOLDE.wav",
+		"oAP": "/wav.bak/HVOICEA.wav",
 		"oF": 0
 		},
-	"\/wav\/Komplexer_1.wav": {
+	"/wav.bak/ISOBELLE.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Komplexer_1.wav",
+		"oAP": "/wav.bak/ISOBELLE.wav",
 		"oF": 0
 		},
-	"\/wav\/KUATO.wav": {
+	"/wav.bak/ISOLDE.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/KUATO.wav",
+		"oAP": "/wav.bak/ISOLDE.wav",
 		"oF": 0
 		},
-	"\/wav\/LFO_Playground.wav": {
+	"/wav.bak/Komplexer_1.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/LFO_Playground.wav",
+		"oAP": "/wav.bak/Komplexer_1.wav",
 		"oF": 0
 		},
-	"\/wav\/LFO_Playground_Part_2_.wav": {
+	"/wav.bak/KUATO.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/LFO_Playground_Part_2_.wav",
+		"oAP": "/wav.bak/KUATO.wav",
 		"oF": 0
 		},
-	"\/wav\/Light_Years.wav": {
+	"/wav.bak/LFO_Playground.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Light_Years.wav",
+		"oAP": "/wav.bak/LFO_Playground.wav",
 		"oF": 0
 		},
-	"\/wav\/LoFiRiser.wav": {
+	"/wav.bak/LFO_Playground_Part_2_.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/LoFiRiser.wav",
+		"oAP": "/wav.bak/LFO_Playground_Part_2_.wav",
 		"oF": 0
 		},
-	"\/wav\/Micro_Q_ALT1.wav": {
+	"/wav.bak/Light_Years.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Micro_Q_ALT1.wav",
+		"oAP": "/wav.bak/Light_Years.wav",
 		"oF": 0
 		},
-	"\/wav\/MODDROP.wav": {
+	"/wav.bak/LoFiRiser.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/MODDROP.wav",
+		"oAP": "/wav.bak/LoFiRiser.wav",
 		"oF": 0
 		},
-	"\/wav\/MUTATION.wav": {
+	"/wav.bak/Micro_Q_ALT1.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/MUTATION.wav",
+		"oAP": "/wav.bak/Micro_Q_ALT1.wav",
 		"oF": 0
 		},
-	"\/wav\/PPG_Upper.wav": {
+	"/wav.bak/MODDROP.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/PPG_Upper.wav",
+		"oAP": "/wav.bak/MODDROP.wav",
 		"oF": 0
 		},
-	"\/wav\/Push_the_Controller_Head.wav": {
+	"/wav.bak/MUTATION.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Push_the_Controller_Head.wav",
+		"oAP": "/wav.bak/MUTATION.wav",
 		"oF": 0
 		},
-	"\/wav\/QuX_FMy.wav": {
+	"/wav.bak/PPG_Upper.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/QuX_FMy.wav",
+		"oAP": "/wav.bak/PPG_Upper.wav",
 		"oF": 0
 		},
-	"\/wav\/Radius.wav": {
+	"/wav.bak/PPG_wavetable_0.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Radius.wav",
+		"oAP": "/wav.bak/PPG_wavetable_0.wav",
 		"oF": 0
 		},
-	"\/wav\/Retro_Speaking.wav": {
+	"/wav.bak/PPG_wavetable_01.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Retro_Speaking.wav",
+		"oAP": "/wav.bak/PPG_wavetable_01.wav",
 		"oF": 0
 		},
-	"\/wav\/RingShaper.wav": {
+	"/wav.bak/PPG_wavetable_02.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/RingShaper.wav",
+		"oAP": "/wav.bak/PPG_wavetable_02.wav",
 		"oF": 0
 		},
-	"\/wav\/RRLyrQ5.wav": {
+	"/wav.bak/PPG_wavetable_03.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/RRLyrQ5.wav",
+		"oAP": "/wav.bak/PPG_wavetable_03.wav",
 		"oF": 0
 		},
-	"\/wav\/RRLyrQ6.wav": {
+	"/wav.bak/PPG_wavetable_04.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/RRLyrQ6.wav",
+		"oAP": "/wav.bak/PPG_wavetable_04.wav",
 		"oF": 0
 		},
-	"\/wav\/RRLyrQ7.wav": {
+	"/wav.bak/PPG_wavetable_05.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/RRLyrQ7.wav",
+		"oAP": "/wav.bak/PPG_wavetable_05.wav",
 		"oF": 0
 		},
-	"\/wav\/Sand_Eyes.wav": {
+	"/wav.bak/PPG_wavetable_06.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Sand_Eyes.wav",
+		"oAP": "/wav.bak/PPG_wavetable_06.wav",
 		"oF": 0
 		},
-	"\/wav\/SAW_Ringmod.wav": {
+	"/wav.bak/PPG_wavetable_07.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/SAW_Ringmod.wav",
+		"oAP": "/wav.bak/PPG_wavetable_07.wav",
 		"oF": 0
 		},
-	"\/wav\/sine2saw2triangle2square2pwm_morph.wav": {
+	"/wav.bak/PPG_wavetable_08.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/sine2saw2triangle2square2pwm_morph.wav",
+		"oAP": "/wav.bak/PPG_wavetable_08.wav",
 		"oF": 0
 		},
-	"\/wav\/Sitar.wav": {
+	"/wav.bak/PPG_wavetable_09.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Sitar.wav",
+		"oAP": "/wav.bak/PPG_wavetable_09.wav",
 		"oF": 0
 		},
-	"\/wav\/Snake_Eyes.wav": {
+	"/wav.bak/PPG_wavetable_10.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Snake_Eyes.wav",
+		"oAP": "/wav.bak/PPG_wavetable_10.wav",
 		"oF": 0
 		},
-	"\/wav\/SuperSaw.wav": {
+	"/wav.bak/PPG_wavetable_11.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/SuperSaw.wav",
+		"oAP": "/wav.bak/PPG_wavetable_11.wav",
 		"oF": 0
 		},
-	"\/wav\/Synth_Vowler.wav": {
+	"/wav.bak/PPG_wavetable_12.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Synth_Vowler.wav",
+		"oAP": "/wav.bak/PPG_wavetable_12.wav",
 		"oF": 0
 		},
-	"\/wav\/SynthArps.wav": {
+	"/wav.bak/PPG_wavetable_13.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/SynthArps.wav",
+		"oAP": "/wav.bak/PPG_wavetable_13.wav",
 		"oF": 0
 		},
-	"\/wav\/Synthesis_Technology_E352.wav": {
+	"/wav.bak/PPG_wavetable_14.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Synthesis_Technology_E352.wav",
+		"oAP": "/wav.bak/PPG_wavetable_14.wav",
 		"oF": 0
 		},
-	"\/wav\/Table_Tilted_Tubular_Bell.wav": {
+	"/wav.bak/PPG_wavetable_15.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Table_Tilted_Tubular_Bell.wav",
+		"oAP": "/wav.bak/PPG_wavetable_15.wav",
 		"oF": 0
 		},
-	"\/wav\/Talking_into_a_Wavetable_Freq-47hz_Z-0.37hz.wav": {
+	"/wav.bak/PPG_wavetable_16.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Talking_into_a_Wavetable_Freq-47hz_Z-0.37hz.wav",
+		"oAP": "/wav.bak/PPG_wavetable_16.wav",
 		"oF": 0
 		},
-	"\/wav\/texture44.wav": {
+	"/wav.bak/PPG_wavetable_17.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/texture44.wav",
+		"oAP": "/wav.bak/PPG_wavetable_17.wav",
 		"oF": 0
 		},
-	"\/wav\/TezzaLog.wav": {
+	"/wav.bak/PPG_wavetable_18.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/TezzaLog.wav",
+		"oAP": "/wav.bak/PPG_wavetable_18.wav",
 		"oF": 0
 		},
-	"\/wav\/Tron_Male.wav": {
+	"/wav.bak/PPG_wavetable_19.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Tron_Male.wav",
+		"oAP": "/wav.bak/PPG_wavetable_19.wav",
 		"oF": 0
 		},
-	"\/wav\/TWIST1.wav": {
+	"/wav.bak/PPG_wavetable_20.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/TWIST1.wav",
+		"oAP": "/wav.bak/PPG_wavetable_20.wav",
 		"oF": 0
 		},
-	"\/wav\/TWIST31.wav": {
+	"/wav.bak/PPG_wavetable_21.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/TWIST31.wav",
+		"oAP": "/wav.bak/PPG_wavetable_21.wav",
 		"oF": 0
 		},
-	"\/wav\/TWIST6.wav": {
+	"/wav.bak/PPG_wavetable_22.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/TWIST6.wav",
+		"oAP": "/wav.bak/PPG_wavetable_22.wav",
 		"oF": 0
 		},
-	"\/wav\/Twist_2.wav": {
+	"/wav.bak/PPG_wavetable_23.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Twist_2.wav",
+		"oAP": "/wav.bak/PPG_wavetable_23.wav",
 		"oF": 0
 		},
-	"\/wav\/Viral.wav": {
+	"/wav.bak/PPG_wavetable_24.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Viral.wav",
+		"oAP": "/wav.bak/PPG_wavetable_24.wav",
 		"oF": 0
 		},
-	"\/wav\/Virus_Saw.wav": {
+	"/wav.bak/PPG_wavetable_25.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Virus_Saw.wav",
+		"oAP": "/wav.bak/PPG_wavetable_25.wav",
 		"oF": 0
 		},
-	"\/wav\/WAVETRIP1.wav": {
+	"/wav.bak/PPG_wavetable_26.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/WAVETRIP1.wav",
+		"oAP": "/wav.bak/PPG_wavetable_26.wav",
 		"oF": 0
 		},
-	"\/wav\/Where_Now.wav": {
+	"/wav.bak/PPG_wavetable_27.wav": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wav\/Where_Now.wav",
+		"oAP": "/wav.bak/PPG_wavetable_27.wav",
+		"oF": 0
+		},
+	"/wav.bak/PPG_wavetable_28.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/PPG_wavetable_28.wav",
+		"oF": 0
+		},
+	"/wav.bak/PPG_wavetable_29.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/PPG_wavetable_29.wav",
+		"oF": 0
+		},
+	"/wav.bak/PPG_wavetable_30.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/PPG_wavetable_30.wav",
+		"oF": 0
+		},
+	"/wav.bak/PPG_wavetable_31.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/PPG_wavetable_31.wav",
+		"oF": 0
+		},
+	"/wav.bak/Push_the_Controller_Head.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Push_the_Controller_Head.wav",
+		"oF": 0
+		},
+	"/wav.bak/QuX_FMy.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/QuX_FMy.wav",
+		"oF": 0
+		},
+	"/wav.bak/Radius.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Radius.wav",
+		"oF": 0
+		},
+	"/wav.bak/Retro_Speaking.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Retro_Speaking.wav",
+		"oF": 0
+		},
+	"/wav.bak/RingShaper.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/RingShaper.wav",
+		"oF": 0
+		},
+	"/wav.bak/RRLyrQ5.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/RRLyrQ5.wav",
+		"oF": 0
+		},
+	"/wav.bak/RRLyrQ6.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/RRLyrQ6.wav",
+		"oF": 0
+		},
+	"/wav.bak/RRLyrQ7.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/RRLyrQ7.wav",
+		"oF": 0
+		},
+	"/wav.bak/Sand_Eyes.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Sand_Eyes.wav",
+		"oF": 0
+		},
+	"/wav.bak/SAW_Ringmod.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/SAW_Ringmod.wav",
+		"oF": 0
+		},
+	"/wav.bak/sine2saw2triangle2square2pwm_morph.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/sine2saw2triangle2square2pwm_morph.wav",
+		"oF": 0
+		},
+	"/wav.bak/Sitar.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Sitar.wav",
+		"oF": 0
+		},
+	"/wav.bak/Snake_Eyes.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Snake_Eyes.wav",
+		"oF": 0
+		},
+	"/wav.bak/SuperSaw.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/SuperSaw.wav",
+		"oF": 0
+		},
+	"/wav.bak/Synth_Vowler.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Synth_Vowler.wav",
+		"oF": 0
+		},
+	"/wav.bak/SynthArps.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/SynthArps.wav",
+		"oF": 0
+		},
+	"/wav.bak/Synthesis_Technology_E352.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Synthesis_Technology_E352.wav",
+		"oF": 0
+		},
+	"/wav.bak/Table_Tilted_Tubular_Bell.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Table_Tilted_Tubular_Bell.wav",
+		"oF": 0
+		},
+	"/wav.bak/Talking_into_a_Wavetable_Freq-47hz_Z-0.37hz.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Talking_into_a_Wavetable_Freq-47hz_Z-0.37hz.wav",
+		"oF": 0
+		},
+	"/wav.bak/texture44.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/texture44.wav",
+		"oF": 0
+		},
+	"/wav.bak/TezzaLog.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/TezzaLog.wav",
+		"oF": 0
+		},
+	"/wav.bak/Tron_Male.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Tron_Male.wav",
+		"oF": 0
+		},
+	"/wav.bak/TWIST1.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/TWIST1.wav",
+		"oF": 0
+		},
+	"/wav.bak/TWIST31.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/TWIST31.wav",
+		"oF": 0
+		},
+	"/wav.bak/TWIST6.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/TWIST6.wav",
+		"oF": 0
+		},
+	"/wav.bak/Twist_2.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Twist_2.wav",
+		"oF": 0
+		},
+	"/wav.bak/Uh...Psychedelics.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Uh...Psychedelics.wav",
+		"oF": 0
+		},
+	"/wav.bak/Viral.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Viral.wav",
+		"oF": 0
+		},
+	"/wav.bak/Virus_Saw.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Virus_Saw.wav",
+		"oF": 0
+		},
+	"/wav.bak/WAVETRIP1.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/WAVETRIP1.wav",
+		"oF": 0
+		},
+	"/wav.bak/Where_Now.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav.bak/Where_Now.wav",
+		"oF": 0
+		},
+	"/wav/AAHWOHYE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/AAHWOHYE.WAV",
+		"oF": 0
+		},
+	"/wav/AKWF_FMS.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/AKWF_FMS.WAV",
+		"oF": 0
+		},
+	"/wav/ASSYMETR.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ASSYMETR.WAV",
+		"oF": 0
+		},
+	"/wav/AUDIOTER.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/AUDIOTER.WAV",
+		"oF": 0
+		},
+	"/wav/BANK_A.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BANK_A.WAV",
+		"oF": 0
+		},
+	"/wav/BANK_B.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BANK_B.WAV",
+		"oF": 0
+		},
+	"/wav/BANK_C.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BANK_C.WAV",
+		"oF": 0
+		},
+	"/wav/BBELLS.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BBELLS.WAV",
+		"oF": 0
+		},
+	"/wav/BEST_OF_.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BEST_OF_.WAV",
+		"oF": 0
+		},
+	"/wav/BOWING.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/BOWING.WAV",
+		"oF": 0
+		},
+	"/wav/CLOCK_MU.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/CLOCK_MU.WAV",
+		"oF": 0
+		},
+	"/wav/CYBORG.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/CYBORG.WAV",
+		"oF": 0
+		},
+	"/wav/ENSHTU02.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ENSHTU02.WAV",
+		"oF": 0
+		},
+	"/wav/ENSHTU03.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ENSHTU03.WAV",
+		"oF": 0
+		},
+	"/wav/ENSHTURZ.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ENSHTURZ.WAV",
+		"oF": 0
+		},
+	"/wav/ESQ1-HI.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ESQ1-HI.WAV",
+		"oF": 0
+		},
+	"/wav/ESQ1-LO.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ESQ1-LO.WAV",
+		"oF": 0
+		},
+	"/wav/EUCLIDEA.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/EUCLIDEA.WAV",
+		"oF": 0
+		},
+	"/wav/FAIRLI01.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/FAIRLI01.WAV",
+		"oF": 0
+		},
+	"/wav/G2_ASTRA.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/G2_ASTRA.WAV",
+		"oF": 0
+		},
+	"/wav/GEOMETRI.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/GEOMETRI.WAV",
+		"oF": 0
+		},
+	"/wav/HARMONIX.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/HARMONIX.WAV",
+		"oF": 0
+		},
+	"/wav/HMMMMMMM.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/HMMMMMMM.WAV",
+		"oF": 0
+		},
+	"/wav/HVOICEA.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/HVOICEA.WAV",
+		"oF": 0
+		},
+	"/wav/ISOBELLE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ISOBELLE.WAV",
+		"oF": 0
+		},
+	"/wav/ISOLDE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/ISOLDE.WAV",
+		"oF": 0
+		},
+	"/wav/KOMPLE01.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/KOMPLE01.WAV",
+		"oF": 0
+		},
+	"/wav/KUATO.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/KUATO.WAV",
+		"oF": 0
+		},
+	"/wav/LFO_PLAY.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/LFO_PLAY.WAV",
+		"oF": 0
+		},
+	"/wav/LIGHT_YE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/LIGHT_YE.WAV",
+		"oF": 0
+		},
+	"/wav/LOFIRISE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/LOFIRISE.WAV",
+		"oF": 0
+		},
+	"/wav/MICRO_Q_.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/MICRO_Q_.WAV",
+		"oF": 0
+		},
+	"/wav/MODDROP.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/MODDROP.WAV",
+		"oF": 0
+		},
+	"/wav/MUTATION.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/MUTATION.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_UPPE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_UPPE.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA00.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA00.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA01.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA01.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA02.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA02.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA03.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA03.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA04.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA04.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA05.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA05.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA06.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA06.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA07.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA07.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA08.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA08.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA09.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA09.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA10.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA10.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA11.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA11.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA12.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA12.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA13.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA13.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA14.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA14.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA15.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA15.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA16.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA16.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA17.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA17.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA18.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA18.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA19.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA19.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA20.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA20.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA21.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA21.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA22.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA22.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA23.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA23.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA24.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA24.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA25.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA25.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA26.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA26.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA27.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA27.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA28.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA28.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA29.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA29.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA30.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA30.WAV",
+		"oF": 0
+		},
+	"/wav/PPG_WA31.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PPG_WA31.WAV",
+		"oF": 0
+		},
+	"/wav/PUSH_THE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/PUSH_THE.WAV",
+		"oF": 0
+		},
+	"/wav/QUX_FMY.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/QUX_FMY.WAV",
+		"oF": 0
+		},
+	"/wav/RADIUS.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RADIUS.WAV",
+		"oF": 0
+		},
+	"/wav/RETRO_SP.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RETRO_SP.WAV",
+		"oF": 0
+		},
+	"/wav/RINGSHAP.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RINGSHAP.WAV",
+		"oF": 0
+		},
+	"/wav/RRLYRQ5.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RRLYRQ5.WAV",
+		"oF": 0
+		},
+	"/wav/RRLYRQ6.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RRLYRQ6.WAV",
+		"oF": 0
+		},
+	"/wav/RRLYRQ7.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/RRLYRQ7.WAV",
+		"oF": 0
+		},
+	"/wav/SAND_EYE.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SAND_EYE.WAV",
+		"oF": 0
+		},
+	"/wav/SAW_RING.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SAW_RING.WAV",
+		"oF": 0
+		},
+	"/wav/SINE2SAW.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SINE2SAW.WAV",
+		"oF": 0
+		},
+	"/wav/SITAR.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SITAR.WAV",
+		"oF": 0
+		},
+	"/wav/SNAKE_EY.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SNAKE_EY.WAV",
+		"oF": 0
+		},
+	"/wav/SUPERSAW.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SUPERSAW.WAV",
+		"oF": 0
+		},
+	"/wav/SYNTH_VO.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SYNTH_VO.WAV",
+		"oF": 0
+		},
+	"/wav/SYNTHARP.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SYNTHARP.WAV",
+		"oF": 0
+		},
+	"/wav/SYNTHESI.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/SYNTHESI.WAV",
+		"oF": 0
+		},
+	"/wav/TABLE_TI.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TABLE_TI.WAV",
+		"oF": 0
+		},
+	"/wav/TALKING.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TALKING.WAV",
+		"oF": 0
+		},
+	"/wav/TEXTURE4.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TEXTURE4.WAV",
+		"oF": 0
+		},
+	"/wav/TEZZALOG.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TEZZALOG.WAV",
+		"oF": 0
+		},
+	"/wav/TRON_MAL.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TRON_MAL.WAV",
+		"oF": 0
+		},
+	"/wav/TWIST02.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TWIST02.WAV",
+		"oF": 0
+		},
+	"/wav/TWIST1.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TWIST1.WAV",
+		"oF": 0
+		},
+	"/wav/TWIST31.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TWIST31.WAV",
+		"oF": 0
+		},
+	"/wav/TWIST6.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/TWIST6.WAV",
+		"oF": 0
+		},
+	"/wav/UH...PSY.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/UH...PSY.WAV",
+		"oF": 0
+		},
+	"/wav/VIRAL.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/VIRAL.WAV",
+		"oF": 0
+		},
+	"/wav/VIRUS_SA.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/VIRUS_SA.WAV",
+		"oF": 0
+		},
+	"/wav/WAVETRIP.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/WAVETRIP.WAV",
+		"oF": 0
+		},
+	"/wav/WHERE_NO.WAV": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/wav/WHERE_NO.WAV",
 		"oF": 0
 		}
 	},
@@ -1239,148 +2457,102 @@
 	"creationDate": 525294575,
 	"displayValue": "waveedit",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-punDog"
+	"iconImageName": "meme-punDog",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1392,7 +2564,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1404,7 +2597,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1440,53 +2651,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1495,6 +2699,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1852,6 +3057,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1863,6 +3072,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -1908,6 +3121,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -1926,10 +3143,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2128,9 +3341,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2484,6 +3701,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2512,6 +3733,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2519,6 +3744,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -2574,7 +3803,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -2634,7 +3863,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3029,7 +4258,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -3042,12 +4270,13 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -3079,19 +4308,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3147,7 +4376,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3176,7 +4405,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3200,36 +4429,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, blog, articles, prem, prot, images, images_sel, images_selected, img, gfx, ad, WEB-INF, WEB-INF.bak, Templates",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, blog, articles, prem, prot, images, images_sel, images_selected, img, gfx, ad, WEB-INF, WEB-INF.bak, Templates",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3237,11 +4500,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3265,6 +4528,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -3281,7 +4548,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3289,20 +4564,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -3317,6 +4604,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -3325,12 +4620,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -3341,11 +4644,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3357,23 +4668,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3385,9 +4724,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
